@@ -1,0 +1,5 @@
+.DS_Store
+/data/html
+/cache_timemaps
+/scripts/__pycache__
+data/wc_html.zip
